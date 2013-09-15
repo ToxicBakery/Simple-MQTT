@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MQTT Testing</string>
+    <string name="hello_world">No place like 127.0.0.1!</string>
+
+</resources>
